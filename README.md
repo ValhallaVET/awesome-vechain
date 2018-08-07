@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/resources/logo.png" width="888px"/>
+  <img src="/resources/logo.png" width="128px" />
 </p>
 
 <h1 align="center">Awesome VeChain</h1>
