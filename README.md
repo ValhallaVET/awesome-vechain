@@ -1,5 +1,12 @@
-# awesome-vechain
-Resources for working with the VeChain blockchain
+<p align="center">
+  <img src="/resources/logo.png" width="888px"/>
+</p>
+
+<h1 align="center">Awesome VeChain</h1>
+
+<p align="center">
+  A curated list of awesome <b><a href="https://www.vechain.org/">VeChain</a></b> libraries, applications and resources.
+</p>
 
 ## Contents
 
