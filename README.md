@@ -57,7 +57,7 @@ Resources for working with the VeChain blockchain
 ## Roadmap
 
 <p align="center">
-  <img src="https://imgur.com/a/VwWTgO7" width="888px"/>
+  <img src="/resources/roadmap.png" width="888px"/>
 </p>
 
 ## VTHO Calculators
