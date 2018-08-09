@@ -15,7 +15,7 @@
 - [dApps](#dapps)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [VTHO Calculators](#vtho-calculators)
-- [ICOs on VeChain](#icos-on-vechain)
+- [ICOs on VeChain](#icos)
 - [Information Blogs](#information-blogs)
 - [Network Monitoring](#network-monitoring)
 - [Published Articles](#published-articles)
@@ -31,6 +31,7 @@
 - [Original](https://cdn.vechain.com/vechainthor_development_plan_and_whitepaper_en_v1.0.pdf) - English translation of main white paper.
 
 ## Blockchain Explorers
+
 - [Veforge](https://explore.veforge.com/) - VeChain Block Explorer by Totient Labs
 - [VeScan](https://www.vescan.io/) - VeChain Block Explorer by a VeChain community member
 
@@ -48,6 +49,7 @@
 - [thor-builtins](https://github.com/vechain/thor-builtins)
 
 ## Frequently Asked Questions
+
 - [FAQ page](https://www.reddit.com/r/Vechain/wiki/index) - A page with frequently asked questions.
 
 ## ICOs
@@ -60,6 +62,18 @@
 - [Cahrenheit](https://medium.com/@vechainofficial/announcing-cahrenheit-a-blockchain-based-ecosystem-for-the-automotive-industry-powered-by-the-f9d8b643c842)
 
 ## Information Blogs
+
+- [Sunny Lu Twitter account](https://twitter.com/sunshinelu24?lang=en) - Official Twitter account of VeChain CEO.
+- [Jay Zhang](https://twitter.com/Walkincloud_Jay) - Official Twitter account of VeChain CFO
+- [Kevin Feng](https://twitter.com/kfeng027) - Official Twitter account of VeChain COO
+- [Jianliang Gu](https://twitter.com/VeChain_GU) - Official Twitter account of VeChain CTO
+- [Jerome Grilleres](https://twitter.com/JeromeGrilleres) - Official Twitter account of VeChain Europe GM
+- [Sarah Nabaa](https://twitter.com/mspandorah) - Official Twitter account of VeChain Singapore GM
+
+## Network Monitoring
+
+- [VTHO Stats](https://www.vthostats.com/)
+- [When Lambo Moon](https://whenlambomoon.com/)
 
 ## Roadmap
 
