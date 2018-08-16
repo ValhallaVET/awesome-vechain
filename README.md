@@ -15,6 +15,7 @@
 - [dApps](#dapps)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [VTHO Calculators](#vtho-calculators)
+- [Chome Extensions](#chrome-extensions)
 - [ICOs on VeChain](#icos)
 - [Information Blogs](#information-blogs)
 - [Network Monitoring](#network-monitoring)
@@ -52,6 +53,21 @@
 
 - [FAQ page](https://www.reddit.com/r/Vechain/wiki/index) - A page with frequently asked questions.
 
+## VTHO Calculators
+
+- [Thorcalculator](https://thorcalculator.com/)
+- [VeChainThorCalculator](https://vechainthorcalculator.io/)
+- [Thorcalc.com](https://thorcalc.com/)
+- [Thorcalc.io](https://thorcalc.io/)
+- [TheVeChain](https://thevechain.com/)
+
+## Chrome Extensions
+
+Note: These are made by me 😀
+
+- [VeChain Thor Price Ticker](https://chrome.google.com/webstore/detail/vet-ticker-vechain-thor-t/hmhbgblocpdabalkmibmjkhjdocppdam)
+- [VTHO Balance Ticker](https://chrome.google.com/webstore/detail/vtho-balance-ticker/ehbonhlcehnkdfimpcchcmhfcgmgiogp)
+
 ## ICOs
 
 - [OceanEx](https://medium.com/@OceanEx/introducing-oceanex-7f4a79bbe977)
@@ -80,14 +96,6 @@
 <p align="center">
   <img src="/resources/roadmap.png" width="888px"/>
 </p>
-
-## VTHO Calculators
-
-- [Thorcalculator](https://thorcalculator.com/)
-- [VeChainThorCalculator](https://vechainthorcalculator.io/)
-- [Thorcalc.com](https://thorcalc.com/)
-- [Thorcalc.io](https://thorcalc.io/)
-- [TheVeChain](https://thevechain.com/)
 
 ## SDKs
 - [Thor Java Client SDK](https://github.com/vechain/thor-client-sdk4j) - Thor Java Client SDK
