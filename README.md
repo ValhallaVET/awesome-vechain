@@ -35,6 +35,7 @@
 
 - [Veforge](https://explore.veforge.com/) - VeChain Block Explorer by Totient Labs
 - [VeScan](https://www.vescan.io/) - VeChain Block Explorer by a VeChain community member
+- [TheVeChain](https://thevechain.com/)
 
 ## dApps
 
@@ -59,7 +60,6 @@
 - [VeChainThorCalculator](https://vechainthorcalculator.io/)
 - [Thorcalc.com](https://thorcalc.com/)
 - [Thorcalc.io](https://thorcalc.io/)
-- [TheVeChain](https://thevechain.com/)
 
 ## Chrome Extensions
 
@@ -104,5 +104,7 @@ Note: These are made by me 😀
 ## Wallets
 
 - [Thor Sync](https://github.com/vechain/thor-sync) - Experimental Desktop Wallet
+- [VeChain Thor Mobile Wallet for iOS](https://itunes.apple.com/app/vechainthor/id1397679485?mt=8) - VeChain Thor Mobile Wallet for iOS
+- [VeChain Thor Mobile Wallet for Android](https://play.google.com/store/apps/details?id=com.vechain.wallet) - VeChain Thor Mobile Wallet for Android
 
 
