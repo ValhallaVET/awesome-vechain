@@ -107,15 +107,7 @@ Note: These are made by me 😀
 - [VeChain Thor Mobile Wallet for iOS](https://itunes.apple.com/app/vechainthor/id1397679485?mt=8) - VeChain Thor Mobile Wallet for iOS
 - [VeChain Thor Mobile Wallet for Android](https://play.google.com/store/apps/details?id=com.vechain.wallet) - VeChain Thor Mobile Wallet for Android
 
-&nbsp;
-&nbsp;
-&nbsp;
-
 ---
-
-&nbsp;
-&nbsp;
-&nbsp;
 
 <a style="text-decoration: none; display: flex;" target="_blank" href="https://www.buymeacoffee.com/cjOTzGKti">
   <img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee">
