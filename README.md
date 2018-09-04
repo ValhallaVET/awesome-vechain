@@ -111,5 +111,5 @@ Note: These are made by me 😀
 
 <a style="text-decoration: none; display: flex;" target="_blank" href="https://www.buymeacoffee.com/cjOTzGKti">
   <img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee">
-  <span style="margin-left:5px">Buy me a coffee</span>
+  <span style="margin-left:5px; margin-bottom: 5px">Buy me a coffee</span>
 </a>
