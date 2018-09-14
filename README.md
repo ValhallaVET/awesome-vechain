@@ -90,6 +90,7 @@ Note: These are made by me 😀
 
 - [VTHO Stats](https://www.vthostats.com/)
 - [When Lambo Moon](https://whenlambomoon.com/)
+- [0xStream](https://0xstream.com) - Service for monitoring account activity
 
 ## Roadmap
 
