@@ -60,7 +60,7 @@
 - [VeChainThorCalculator](https://vechainthorcalculator.io/)
 - [Thorcalc.com](https://thorcalc.com/)
 - [Thorcalc.io](https://thorcalc.io/)
-- [VeChainStats.com/](https://vechainstats.com/vtho-calculator/)
+- [VeChainStats.com](https://vechainstats.com/vtho-calculator/)
 
 
 ## Chrome Extensions
