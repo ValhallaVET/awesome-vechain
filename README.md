@@ -17,8 +17,8 @@
 Be aware that some of the descriptions are mere duplications of current community descriptions.
 
 - [About](#about)
-- [Communication & Information](#communication-information)
-- [Tools & Wallets](#tools-wallets)
+- [Communication & Information](#communication--information)
+- [Tools & Wallets](#tools--wallets)
 - [Blockchain Information](#blockchain-information)
 - [dApps](#dapps)
 - [Developer resources](#developer-resources)
