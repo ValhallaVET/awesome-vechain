@@ -60,6 +60,8 @@
 - [VeChainThorCalculator](https://vechainthorcalculator.io/)
 - [Thorcalc.com](https://thorcalc.com/)
 - [Thorcalc.io](https://thorcalc.io/)
+- [VeChainStats.com](https://vechainstats.com/vtho-calculator/)
+
 
 ## Chrome Extensions
 
@@ -92,6 +94,7 @@ Note: These are made by me 😀
 - [When Lambo Moon](https://whenlambomoon.com/)
 - [0xStream](https://0xstream.com) - Service for monitoring account activity
 - [Vechain Lists](https://github.com/ValhallaVET/vechain-lists) - Tracking of known good/bad addresses & urls
+- [VeChainStats](https://vechainstats.com/)
 
 ## Roadmap
 
