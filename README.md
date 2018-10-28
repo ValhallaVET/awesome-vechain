@@ -36,8 +36,6 @@ VeChain is a leading global enterprise level public blockchain platform. VeChain
 
 ## Communication & Information
 
-### General information
-
 - [Wiki/FAQ](https://www.reddit.com/r/Vechain/wiki/index) - The comprehensive community wiki for the VeChain Subreddit with many useful insights for curious minds and interested businesses
 - [VechainInsider](https://vechaininsider.com/) - Community website for the latest VeChain related information
 - [VET token statistics](https://coinmarketcap.com/currencies/vechain/) - The blockchain's main cryptocurrency token
@@ -169,7 +167,7 @@ Due to the improvements which benefit users and enterprises, libraries or SDKs a
 - [Web3 Gear](https://github.com/vechain/web3-gear) - Proxy Thor's RESTful API to Eth JSON-RPC, to support Remix, Truffle and more.
 - [Thor Devkit](https://github.com/vechain/thor-devkit.js) - Typescript library to aid DApp development on VeChain Thor
 - [Stormbreaker](https://github.com/rogojs/stormbreaker) - Community member's CLI for interacting with VeChain Thor blockchain
-- [VeBlocks](https://github.com/mirei83/VeBlocks) - Shell tool to extract several aggregated informations from the VeChainThor blockchain onto a MySQL database setup
+- [VeBlocks](https://github.com/mirei83/VeBlocks) - A nerdy, MySQL-based Blockexplorer for VeChain
 
 ### Development introduction to VeChainThor
 
