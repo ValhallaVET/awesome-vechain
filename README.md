@@ -36,6 +36,7 @@
 - [Veforge](https://explore.veforge.com/) - VeChain Block Explorer by Totient Labs
 - [VeScan](https://www.vescan.io/) - VeChain Block Explorer by a VeChain community member
 - [TheVeChain](https://thevechain.com/) - VeChain Block Explorer built by a VeChain community member
+- [VeBlocks](https://github.com/mirei83/VeBlocks) - A nerdy, MySQL-based Blockexplorer for VeChain
 
 ## dApps
 
