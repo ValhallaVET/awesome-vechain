@@ -73,6 +73,7 @@ VeChain is a leading global enterprise level public blockchain platform. VeChain
 - [Telegram Chinese](https://t.me/vechain_official_CN) - Telegram channel aimed at chinese speaking members
 - [Telegram Korean](https://t.me/vechain_official_korean) - Telegram channel aimed at korean speaking members
 - [Telegram Dutch](https://t.me/vechain_official_dutch) - Telegram channel aimed at dutch speaking members
+- [Telegram UK](https://t.me/vechain_official_UK) - Telegram channel aimed at UK residents
 
 #### Community channels
 
