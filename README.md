@@ -107,6 +107,9 @@ VeChain is a leading global enterprise level public blockchain platform. VeChain
 - [Official VeChain Thor Mobile Wallet for Android](https://play.google.com/store/apps/details?id=com.vechain.wallet) - VeChain Thor Mobile Wallet for Android
 - [VeForge Vault Hardware Wallet Interface](https://vault.veforge.com/) - Ledger nano hardware wallet interface/light wallet developed by Totient Labs, requires a Ledger nano hardware wallet and the VeChain Ledger app installed on the device
 - [Thor Sync](https://github.com/vechain/thor-sync) - Experimental Desktop Wallet, can be used to manage accounts from the desktop while the mobile wallet is recommended for full feature access, click the "releases" link to access the files
+- [Arkane Network](https://arkane.network) - Arkane network is a blockchain wallet and development tool for blockchain applications
+ - See the [introduction here](https://medium.com/arkane-network/eli5-arkane-network-44bb10d0e68f)
+ - See the [app here](https://app.arkane.network)
 
 ### Mobile Applications
 
@@ -152,6 +155,7 @@ Below you will find either the official websites or relevant information from co
 - [DB SChenker](https://medium.com/@vechainofficial/vechain-and-db-schenker-pioneer-in-the-use-of-blockchain-for-the-logistics-industry-55941c048070) - DB Schenker has developed a supplier evaluation system with VeChainThor platform. This is the first time that blockchain is used for supplier management purposes. -- Find more information on the community [wiki](https://www.reddit.com/r/Vechain/wiki/index#wiki_2.7_what_are_dapps_on_vechain.3F)
 - [My Story™](https://www.dnvgl.com/news/dnv-gl-launches-my-story-the-blockchain-based-solution-to-tell-the-product-s-full-story-113549) - the blockchain based solution to tell the product’s full story
 - [Vexchange Beta](https://vtho.exchange/) - Instantly swap VTHO and VET on Main-net - Currently not aided nor supported by VeChain Foundation
+- [ThorBlock](https://thorblock.io/) - Pooling service
 
 ## Developer resources
 
@@ -173,6 +177,7 @@ Due to the improvements which benefit users and enterprises, libraries or SDKs a
 - [Thor Devkit](https://github.com/vechain/thor-devkit.js) - Typescript library to aid DApp development on VeChain Thor
 - [Stormbreaker](https://github.com/rogojs/stormbreaker) - Community member's CLI for interacting with VeChain Thor blockchain
 - [VeBlocks](https://github.com/mirei83/VeBlocks) - A nerdy, MySQL-based Blockexplorer for VeChain
+- [Arkane Dev Docs](https://docs.arkane.network) - Arkane API Documentation
 
 ### Development introduction to VeChainThor
 
