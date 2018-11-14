@@ -33,6 +33,7 @@ VeChain is a leading global enterprise level public blockchain platform. VeChain
 - [Whitepaper](https://cdn.vechain.com/vechainthor_development_plan_and_whitepaper_en_v1.0.pdf) - English translation of main white paper 1.0.0.0
 - [Whitepaper on Medium](https://medium.com/@bsc44/vechain-development-plan-whitepaper-bccc3c255082) - Original whitepaper, ported by a community member to the easily digestable Medium format
 - [Old website](https://www.vechain.com) - Available in chinese and english
+- [VET/VTHO Info sheet](https://docs.google.com/document/d/1OSPlKf_cggUdav3wFcFayk8d5TNbrI60nNIgIDJ67gU/edit) - Composed info sheet about VeChain, media channels and technical information
 
 ## Communication & Information
 
@@ -73,6 +74,9 @@ VeChain is a leading global enterprise level public blockchain platform. VeChain
 - [Telegram Chinese](https://t.me/vechain_official_CN) - Telegram channel aimed at chinese speaking members
 - [Telegram Korean](https://t.me/vechain_official_korean) - Telegram channel aimed at korean speaking members
 - [Telegram Dutch](https://t.me/vechain_official_dutch) - Telegram channel aimed at dutch speaking members
+- [Telegram UK](https://t.me/vechain_official_UK) - Telegram channel aimed at UK residents
+- [Weibo](https://weibo.com/u/6353774918)
+- WeChat official account: @vechainfoundation
 
 #### Community channels
 
@@ -103,6 +107,9 @@ VeChain is a leading global enterprise level public blockchain platform. VeChain
 - [Official VeChain Thor Mobile Wallet for Android](https://play.google.com/store/apps/details?id=com.vechain.wallet) - VeChain Thor Mobile Wallet for Android
 - [VeForge Vault Hardware Wallet Interface](https://vault.veforge.com/) - Ledger nano hardware wallet interface/light wallet developed by Totient Labs, requires a Ledger nano hardware wallet and the VeChain Ledger app installed on the device
 - [Thor Sync](https://github.com/vechain/thor-sync) - Experimental Desktop Wallet, can be used to manage accounts from the desktop while the mobile wallet is recommended for full feature access, click the "releases" link to access the files
+- [Arkane Network](https://arkane.network) - Arkane network is a blockchain wallet and development tool for blockchain applications
+ - See the [introduction here](https://medium.com/arkane-network/eli5-arkane-network-44bb10d0e68f)
+ - See the [app here](https://app.arkane.network)
 
 ### Mobile Applications
 
@@ -146,12 +153,14 @@ Below you will find either the official websites or relevant information from co
 - [Assetlink Manager](https://medium.com/@vechainofficial/introducing-assetlink-a-joint-supply-chain-management-application-of-xiamen-innov-corelink-and-4ce7d114f118) - AssetLink Manager is the first enterprise-grade supply chain management solution presented on VeChainThor. -- Find more information on the community [wiki](https://www.reddit.com/r/Vechain/wiki/index#wiki_2.7_what_are_dapps_on_vechain.3F)
 - [DECENT.bet](https://medium.com/@vechainofficial/vechain-enters-into-partnership-with-decent-bet-303acc9c2bf1) - Decent.bet (DBET) is a transparent, smart contract based sports betting platform and online casino. -- Find more information on the community [wiki](https://www.reddit.com/r/Vechain/wiki/index#wiki_2.7_what_are_dapps_on_vechain.3F)
 - [DB SChenker](https://medium.com/@vechainofficial/vechain-and-db-schenker-pioneer-in-the-use-of-blockchain-for-the-logistics-industry-55941c048070) - DB Schenker has developed a supplier evaluation system with VeChainThor platform. This is the first time that blockchain is used for supplier management purposes. -- Find more information on the community [wiki](https://www.reddit.com/r/Vechain/wiki/index#wiki_2.7_what_are_dapps_on_vechain.3F)
+- [My Story™](https://www.dnvgl.com/news/dnv-gl-launches-my-story-the-blockchain-based-solution-to-tell-the-product-s-full-story-113549) - the blockchain based solution to tell the product’s full story
 - [Vexchange Beta](https://vtho.exchange/) - Instantly swap VTHO and VET on Main-net - Currently not aided nor supported by VeChain Foundation
+- [ThorBlock](https://thorblock.io/) - Pooling service
 
 ## Developer resources
 
 In general VeChainThor is mostly compatible to the Ethereum blockchain. It currently uses the same Ethereum Virtual Machine and the same smart contract development language - Solidity.
-Due to the improvements which benefit users and enterprises, libraries or SDKs are required for development compatibility with existing tools like Truffle or Remix.
+Due to the improvements which benefit users and enterprises, libraries or SDKs are required for development compatibility with existing tools like [Truffle](https://truffleframework.com/) or [Remix](https://remix.ethereum.org/).
 
 ### Source code & Projects
 
@@ -161,13 +170,14 @@ Due to the improvements which benefit users and enterprises, libraries or SDKs a
 
 ### Blockchain development
 
-- [VeChainThor Blockchain](https://github.com/vechain/thor) - The VeChainThor blockchain written in Golang: A general purpose blockchain highly compatible with Ethereum's ecosystem
+- [VeChainThor Blockchain](https://github.com/vechain/thor) - The VeChainThor blockchain written in [Golang](https://golang.org/): A general purpose blockchain highly compatible with Ethereum's ecosystem
 - [Thor Java Client SDK](https://github.com/vechain/thor-client-sdk4j) - Thor Java Client SDK: A SDK for client toolkit to call Restful API.
 - [Thorify](https://github.com/vechain/thorify) - A JavaScript web3 adaptor for VeChain Thor RESTful API.
 - [Web3 Gear](https://github.com/vechain/web3-gear) - Proxy Thor's RESTful API to Eth JSON-RPC, to support Remix, Truffle and more.
 - [Thor Devkit](https://github.com/vechain/thor-devkit.js) - Typescript library to aid DApp development on VeChain Thor
 - [Stormbreaker](https://github.com/rogojs/stormbreaker) - Community member's CLI for interacting with VeChain Thor blockchain
 - [VeBlocks](https://github.com/mirei83/VeBlocks) - A nerdy, MySQL-based Blockexplorer for VeChain
+- [Arkane Dev Docs](https://docs.arkane.network) - Arkane API Documentation
 
 ### Development introduction to VeChainThor
 
